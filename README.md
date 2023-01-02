@@ -87,5 +87,5 @@
 | [<img src="https://github.com/deingvelop.png" width="80">](https://github.com/deingvelop) <br> 민진 |    |   |   |   |   |   
 |  [<img src="https://github.com/yourzinc.png" width="80">](https://github.com/yourzinc) <br> 아연 |     |   |   |   |   |   
 |  [<img src="https://github.com/minjudy.png" width="80">](https://github.com/minjudy) <br> 민주 |     |   |   |   |   |   
-|  [<img src="https://github.com/02marvel25.png" width="80">](https://github.com/02marvel25) <br> 현정 |     |   |   |   |   |   
+|  [<img src="https://github.com/jhjhjreversible.png" width="80">](https://github.com/jhjhjreversible) <br> 현정 |     |   |   |   |   |   
 
