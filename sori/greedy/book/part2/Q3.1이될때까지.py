@@ -18,3 +18,21 @@ while n>1:
   result += 1
 
 print(result)
+
+
+'''
+처음 작성했던 코드
+while n>=k:
+  print(f"n:{n},k:{k},result:{result}")
+  if n != 1:
+    if n%k==0:
+      n //= k
+      result += 1
+    elif n%k!=0:
+      n -= 1
+      result += 1
+  if n == 1:
+      break
+
+k>n인 경우 과정 실행 안됨.
+'''
