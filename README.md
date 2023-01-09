@@ -103,9 +103,9 @@
 
 | 멤버 | 1주차  | 2주차  | 3주차  | 4주차  |  5주차 | 6주차  |  7주차 |  8주차 |
 |---|---|---|---|---|---|---|---|---|
-|  [<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) <br> 소리 |  part2⭕ <br> part3⭕ <br> 회의참석   |   |   |   |   |   
-| [<img src="https://github.com/deingvelop.png" width="80">](https://github.com/deingvelop) <br> 민진 | part2⭕ <br> part3⭕ <br> 회의참석    |   |   |   |   |   
-|  [<img src="https://github.com/yourzinc.png" width="80">](https://github.com/yourzinc) <br> 아연 |   part2⭕ <br> part3⭕ <br> 회의참석   |   |   |   |   |   
-|  [<img src="https://github.com/minjudy.png" width="80">](https://github.com/minjudy) <br> 민주 |  part2⭕ <br> part3⭕ <br> 회의참석    |   |   |   |   |   
-|  [<img src="https://github.com/jhjhjreversible.png" width="80">](https://github.com/jhjhjreversible) <br> 현정 |  part2❌ <br> part3❌ <br> 회의참석    |   |   |   |   |   
+|  [<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) <br> 소리 |  part2⭕ <br> part3⭕ <br> 회의참석⭕   |   |   |   |   |   
+| [<img src="https://github.com/deingvelop.png" width="80">](https://github.com/deingvelop) <br> 민진 | part2⭕ <br> part3⭕ <br> 회의참석⭕   |   |   |   |   |   
+|  [<img src="https://github.com/yourzinc.png" width="80">](https://github.com/yourzinc) <br> 아연 |   part2⭕ <br> part3⭕ <br> 회의참석⭕   |   |   |   |   |   
+|  [<img src="https://github.com/minjudy.png" width="80">](https://github.com/minjudy) <br> 민주 |  part2⭕ <br> part3⭕ <br> 회의참석⭕    |   |   |   |   |   
+|  [<img src="https://github.com/jhjhjreversible.png" width="80">](https://github.com/jhjhjreversible) <br> 현정 |  part2⭕ <br> part3⭕ <br> 회의참석❌    |   |   |   |   |   
 
