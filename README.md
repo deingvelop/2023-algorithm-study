@@ -45,8 +45,8 @@
 
 ## ✅  소스코드 파일 이름 규칙
 #### 이코테 책
-- 본인이름/알고리즘종류/book/part2/문제명.py
-- 본인이름/알고리즘종류/book/part3/문제명.py
+- 본인이름/알고리즘종류/book/part2/Q1.문제명.py
+- 본인이름/알고리즘종류/book/part3/Q2.문제명.py
 #### 백준
 - 본인이름/알고리즘종류/baekjoon/문제명.py
 #### 프로그래머스
@@ -103,9 +103,9 @@
 
 | 멤버 | 1주차  | 2주차  | 3주차  | 4주차  |  5주차 | 6주차  |  7주차 |  8주차 |
 |---|---|---|---|---|---|---|---|---|
-|  [<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) <br> 소리 |  part2⭕ <br> part3⭕ <br> 회의참석⭕   |   |   |   |   |   
-| [<img src="https://github.com/deingvelop.png" width="80">](https://github.com/deingvelop) <br> 민진 | part2⭕ <br> part3⭕ <br> 회의참석⭕   |   |   |   |   |   
-|  [<img src="https://github.com/yourzinc.png" width="80">](https://github.com/yourzinc) <br> 아연 |   part2⭕ <br> part3⭕ <br> 회의참석⭕   |   |   |   |   |   
-|  [<img src="https://github.com/minjudy.png" width="80">](https://github.com/minjudy) <br> 민주 |  part2⭕ <br> part3⭕ <br> 회의참석⭕    |   |   |   |   |   
-|  [<img src="https://github.com/jhjhjreversible.png" width="80">](https://github.com/jhjhjreversible) <br> 현정 |  part2⭕ <br> part3⭕ <br> 회의참석❌    |   |   |   |   |   
+|  [<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) <br> 소리 |  Q1.큰 수의 법칙⭕ <br> Q2.숫자 카드 게임⭕  <br>Q3.1이 될 때까지 ⭕ <br> Q1.모험가길드⭕ <br> Q2.곱합기 혹은 더하기⭕ <br> Q3.문자열 뒤집기⭕ <br> Q4.만들 수 없는 금액⭕ <br> Q5.볼링공 고르기⭕ <br>  Q6.무지의 먹방 라이브⭕ <br> 회의참석⭕   |   |   |   |   |   
+| [<img src="https://github.com/deingvelop.png" width="80">](https://github.com/deingvelop) <br> 민진 |  Q1.큰 수의 법칙⭕ <br> Q2.숫자 카드 게임⭕  <br>Q3.1이 될 때까지 ⭕ <br> Q1.모험가길드⭕ <br> Q2.곱합기 혹은 더하기⭕ <br> Q3.문자열 뒤집기⭕ <br> Q4.만들 수 없는 금액⭕ <br> Q5.볼링공 고르기⭕ <br>  Q6.무지의 먹방 라이브⭕ <br> 회의참석⭕   |   |   |   |   |   
+|  [<img src="https://github.com/yourzinc.png" width="80">](https://github.com/yourzinc) <br> 아연 |   Q1.큰 수의 법칙⭕ <br> Q2.숫자 카드 게임⭕  <br>Q3.1이 될 때까지 ⭕ <br> Q1.모험가길드⭕ <br> Q2.곱합기 혹은 더하기⭕ <br> Q3.문자열 뒤집기⭕ <br> Q4.만들 수 없는 금액⭕ <br> Q5.볼링공 고르기⭕ <br>  Q6.무지의 먹방 라이브⭕ <br> 회의참석⭕   |   |   |   |   |   
+|  [<img src="https://github.com/minjudy.png" width="80">](https://github.com/minjudy) <br> 민주 |   Q1.큰 수의 법칙⭕ <br> Q2.숫자 카드 게임⭕  <br>Q3.1이 될 때까지 ⭕ <br> Q1.모험가길드⭕ <br> Q2.곱합기 혹은 더하기⭕ <br> Q3.문자열 뒤집기⭕ <br> Q4.만들 수 없는 금액⭕ <br> Q5.볼링공 고르기⭕ <br>  Q6.무지의 먹방 라이브⭕ <br>회의참석⭕    |   |   |   |   |   
+|  [<img src="https://github.com/jhjhjreversible.png" width="80">](https://github.com/jhjhjreversible) <br> 현정 |   Q1.큰 수의 법칙❌ <br> Q2.숫자 카드 게임❌  <br>Q3.1이 될 때까지 ❌ <br> Q1.모험가길드❌ <br> Q2.곱합기 혹은 더하기⭕ <br> Q3.문자열 뒤집기⭕ <br> Q4.만들 수 없는 금액⭕ <br> Q5.볼링공 고르기⭕ <br>  Q6.무지의 먹방 라이브⭕ <br> 회의참석❌    |   |   |   |   |   
 
