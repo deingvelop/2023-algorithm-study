@@ -7,7 +7,7 @@ result = data[0]
 
 for i in range(len(data)-1):
   print(result, data[i+1])
-  if result ==0 or data[i+1] ==0:
+  if result <=1 or data[i+1] <= 1:
     result += data[i+1]
   else:
     result *= data[i+1]
