@@ -1,0 +1,13 @@
+#입력된 연속된 숫자가 1이하이면(둘중 하나만이라도)  더하기
+data = input()
+
+#첫번째 문자를 숫자로 변경해 대입
+result = int(data[0])
+
+for i in range(1, len(data)) :
+    num = int(data[i]) #입력 데이터의 두번째 숫자부터 확인
+    if num <= 1 or result <= 1 :#num은 현재 확인해볼 숫자, result는 지금까지 확인한 숫자들의 결과값
+        result += num
+    else :
+        result *= num
+print(result)
