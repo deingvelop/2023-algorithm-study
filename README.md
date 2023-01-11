@@ -64,10 +64,10 @@
 [TCT-P2] 모험가 길드 
 ```
 ```
-[TCT-P3] 모험가 길드 / 1분 30초 
+[TCT-P3] 모험가 길드 / 30분 / 하
 ```
 ```
-[BOJ] Hello World / 1분 / 브론즈5 "https://www.acmicpc.net/problem/2557"
+[BOJ] Hello World / 20분 / 브론즈5 "https://www.acmicpc.net/problem/2557"
 ```
 -   플랫폼 작성법 통일:
     -  [TCT-P2] - 이코테 책 part.2
