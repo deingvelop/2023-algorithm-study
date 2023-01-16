@@ -1,14 +1,15 @@
 n = int(input())  #보드의 크기
 k = int(input())  #사과의 개수
 
-apple = [[0]*n for i in range(n)]  #초기배열 
+data = [[0]*n for i in range(n)]  #초기배열 
 
 for _ in range(k):
   x, y = map(int, input().split())
-  apple[x][y] = 1 #사과 있는 곳 표시
+  data[x][y] = 1 #사과 있는 곳 표시
   
 l = int(input())  #방향 변환 횟수 
 info = [] #방향회전정보 
+
 for _ in range(l):
   x, c = input().split()
   info.append((int(x),c))
@@ -58,7 +59,7 @@ def simulate():
 
   x,y = nx,ny
   time = time +1
-  if index < 1 and time == iunfo[index][0]:
+  if index < 1 and time == info[index][0]:
     direction = turn(direction, info[index][1])
     index += 1
   return time
