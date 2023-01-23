@@ -41,3 +41,6 @@ while queue:
                 queue.append((virus, s+1, nx, ny))
 
 print(graph[target_x-1][target_y-1])
+
+#풀이법은 생각 하긴 했지만 제대로 구현하지 못함.
+#바이러스가 들어있는 좌료와 시간, 바이러스값을 한번에 넣으면 쉽게 해결 가능
