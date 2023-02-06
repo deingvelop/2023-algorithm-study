@@ -1,0 +1,17 @@
+data = input()
+count0 = 0 #전부 0으로 바꾸는 경우
+count1 = 0
+
+if data[0] =='1' :
+    count0 += 1 #1을 뒤집을거니까 count0에 개수 추가
+else :
+    count1 +=1
+
+#두번째 원소부터
+for i in range(len(data)-1) :
+    if data[i] != data[i+1] : #다음 나오는 숫자와 다르다면
+        if data[i+1] =='1' : #다음 나오는 숫자가 1이라면
+            count0 += 1
+        else : #다음 나오는 숫자가 0이라면
+            count1 += 1 
+print(min(count0, count1))

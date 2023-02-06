@@ -45,8 +45,8 @@
 
 ## ✅  소스코드 파일 이름 규칙
 #### 이코테 책
-- 본인이름/알고리즘종류/book/part2/문제명.py
-- 본인이름/알고리즘종류/book/part3/문제명.py
+- 본인이름/알고리즘종류/book/part2/Q1.문제명.py
+- 본인이름/알고리즘종류/book/part3/Q2.문제명.py
 #### 백준
 - 본인이름/알고리즘종류/baekjoon/문제명.py
 #### 프로그래머스
@@ -64,10 +64,10 @@
 [TCT-P2] 모험가 길드 
 ```
 ```
-[TCT-P3] 모험가 길드 / 1분 30초 
+[TCT-P3] 모험가 길드 / 30분 / 하
 ```
 ```
-[BOJ] Hello World / 1분 / 브론즈5 "https://www.acmicpc.net/problem/2557"
+[BOJ] Hello World / 20분 / 브론즈5 "https://www.acmicpc.net/problem/2557"
 ```
 -   플랫폼 작성법 통일:
     -  [TCT-P2] - 이코테 책 part.2
@@ -90,22 +90,22 @@
 |**주차**|**알고리즘**|**링크**|**part2 문제**|**part3 문제**|  
 |--|--|--|--|--|
 |1주차|greedy(그리디) | [그리디](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=2) |Q1.큰 수의 법칙 <br> Q2.숫자 카드 게임  <br>Q3.1이 될 때까지 | Q1.모험가길드 <br> Q2.곱합기 혹은 더하기 <br> Q3.문자열 뒤집기 <br> Q4.만들 수 없는 금액 <br> Q5.볼링공 고르기 <br>  Q6.무지의 먹방 라이브|  |
-|2주차|implementation(구현) |[구현](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=2) | Q1.왕실의 나이트 <br> Q2.게임 개발 |  Q1.럭키 스트레이트 <br> Q2.문자열 재정렬 <br> Q3.문자열 압축 <br> Q4.자물쇠와 열쇠 <br> Q5.뱀 <br> Q6.기둥과 보 설치 <br> Q7.치킨 배달 <br> Q8.외벽 점검 |  |
-|3주차|dfs/bfs| [DFS/BFS](https://www.youtube.com/watch?v=7C9RgOcvkvo&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=3) |  Q1.음료수 얼려먹기 <br> Q2.미로 탈출 | Q1.특정 거리의 도시찾기 <br> Q2.연구소 <br> Q3.경쟁적 전염 <br> Q4.괄호 변환 <br> Q5.연산자 끼워 넣기  <br> Q6.감시 피하기 <br> Q7.인구 이동 <br> Q8.블록 이동하기 |  |
-|4주차|sorting (정렬)| [정렬](https://www.youtube.com/watch?v=KGyK-pNvWos&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=4) |  Q1.위에서 아래로 <br> Q2.성적이 낮은 순서로 학생 출력하기 <br> Q3.두 배열의 원소 교체  |  Q1.국영수 <br> Q2.안테나 <br> Q3.실패율 <br> Q4.카드정렬하기 |  |
-|5주차|binary_search (이진 탐색)| [이진탐색](https://www.youtube.com/watch?v=94RC-DsGMLo&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=5) |  Q1.부품 찾기 <br> Q2.떡볶이 떡 만들기 |  Q1.정렬된 배열에서 특정 수의 개수 구하기 <br> Q2.고정점 찾기 <br> Q3.공유기 설치 <br> Q4.가사 검색|  |
-|6주차|dynamic_programming(다이나믹 프로그래밍)| [다이나믹프로그래밍](https://www.youtube.com/watch?v=5Lu34WIx2Us&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=6) |  Q1.1로 만들기 <br> Q2.개미 전사 <br> Q3.바닥 공사 <br> Q4.효율적인 화폐 구성 |  Q1.금광 <br> Q2.정수 삼각형 <br> Q3.퇴사 <br> Q4.병사 배치하기 <br> Q5.못생긴 수 <br> Q6.편집 거리|  |
-|7주차|shortest_path(최단경로)| [최단경로](https://www.youtube.com/watch?v=acqm9mM1P6o&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=7) |  Q1.미래 도시 <br> Q2.전보  |  Q1.플로이드 <br> Q2.정확한 순위 <br> Q3.화성 탐사 <br> Q4.숨바꼭질 |  |
-|8주차|graph_theory(그래프이론)| [그래프이론](https://www.youtube.com/watch?v=aOhhNFTIeFI&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=8) |  Q1.팀 결성 <br> Q2.도시 분할 계획 <br> Q3.커리큘럼|  Q1.여행 계획 <br> Q2.탑승구 <br> Q3.어두운 길 <br> Q4.행성 터널 <br> Q5.최종 순위 |  |
+|2주차|implementation(구현) |[구현](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=2) | Q1.왕실의 나이트 <br> Q2.게임 개발 |  Q7.럭키 스트레이트 <br> Q8.문자열 재정렬 <br> Q9.문자열 압축 <br> Q10.자물쇠와 열쇠 <br> Q11.뱀 <br> Q12.기둥과 보 설치 <br> Q13.치킨 배달 <br> Q14.외벽 점검 |  |
+|3주차|dfs/bfs| [DFS/BFS](https://www.youtube.com/watch?v=7C9RgOcvkvo&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=3) |  Q1.음료수 얼려먹기 <br> Q2.미로 탈출 | Q15.특정 거리의 도시찾기 <br> Q16.연구소 <br> Q17.경쟁적 전염 <br> Q18.괄호 변환 <br> Q19.연산자 끼워 넣기  <br> Q20.감시 피하기 <br> Q21.인구 이동 <br> Q22.블록 이동하기 |  |
+|4주차|sorting (정렬)| [정렬](https://www.youtube.com/watch?v=KGyK-pNvWos&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=4) |  Q1.위에서 아래로 <br> Q2.성적이 낮은 순서로 학생 출력하기 <br> Q3.두 배열의 원소 교체  |  Q23.국영수 <br> Q24.안테나 <br> Q25.실패율 <br> Q26.카드정렬하기 |  |
+|5주차|binary_search (이진 탐색)| [이진탐색](https://www.youtube.com/watch?v=94RC-DsGMLo&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=5) |  Q1.부품 찾기 <br> Q2.떡볶이 떡 만들기 |  Q27.정렬된 배열에서 특정 수의 개수 구하기 <br> Q28.고정점 찾기 <br> Q29.공유기 설치 <br> Q30.가사 검색|  |
+|6주차|dynamic_programming(다이나믹 프로그래밍)| [다이나믹프로그래밍](https://www.youtube.com/watch?v=5Lu34WIx2Us&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=6) |  Q1.1로 만들기 <br> Q2.개미 전사 <br> Q3.바닥 공사 <br> Q4.효율적인 화폐 구성 |  Q31.금광 <br> Q32.정수 삼각형 <br> Q33.퇴사 <br> Q34.병사 배치하기 <br> Q35.못생긴 수 <br> Q36.편집 거리|  |
+|7주차|shortest_path(최단경로)| [최단경로](https://www.youtube.com/watch?v=acqm9mM1P6o&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=7) |  Q1.미래 도시 <br> Q2.전보  |  Q37.플로이드 <br> Q38.정확한 순위 <br> Q39.화성 탐사 <br> Q40.숨바꼭질 |  |
+|8주차|graph_theory(그래프이론)| [그래프이론](https://www.youtube.com/watch?v=aOhhNFTIeFI&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=8) |  Q1.팀 결성 <br> Q2.도시 분할 계획 <br> Q3.커리큘럼|  Q41.여행 계획 <br> Q42.탑승구 <br> Q43.어두운 길 <br> Q44.행성 터널 <br> Q45.최종 순위 |  |
 
 ## ✅ 진행상황
 
 
 | 멤버 | 1주차  | 2주차  | 3주차  | 4주차  |  5주차 | 6주차  |  7주차 |  8주차 |
 |---|---|---|---|---|---|---|---|---|
-|  [<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) <br> 소리 |  part2⭕ <br> part3⭕ <br> 회의참석   |   |   |   |   |   
-| [<img src="https://github.com/deingvelop.png" width="80">](https://github.com/deingvelop) <br> 민진 | part2⭕ <br> part3⭕ <br> 회의참석    |   |   |   |   |   
-|  [<img src="https://github.com/yourzinc.png" width="80">](https://github.com/yourzinc) <br> 아연 |   part2⭕ <br> part3⭕ <br> 회의참석   |   |   |   |   |   
-|  [<img src="https://github.com/minjudy.png" width="80">](https://github.com/minjudy) <br> 민주 |  part2⭕ <br> part3⭕ <br> 회의참석    |   |   |   |   |   
-|  [<img src="https://github.com/jhjhjreversible.png" width="80">](https://github.com/jhjhjreversible) <br> 현정 |  part2❌ <br> part3❌ <br> 회의참석    |   |   |   |   |   
+|  [<img src="https://github.com/thfl868.png" width="80">](https://github.com/thfl868) <br> 소리 |  Q1.큰 수의 법칙⭕ <br> Q2.숫자 카드 게임⭕  <br>Q3.1이 될 때까지 ⭕ <br> Q1.모험가길드⭕ <br> Q2.곱합기 혹은 더하기⭕ <br> Q3.문자열 뒤집기⭕ <br> Q4.만들 수 없는 금액⭕ <br> Q5.볼링공 고르기⭕ <br>  Q6.무지의 먹방 라이브⭕ <br> 회의참석⭕   | Q1.왕실의 나이트⭕ <br> Q2.게임 개발⭕ <br> Q1.럭키 스트레이트⭕ <br> Q2.문자열 재정렬⭕ <br> Q3.문자열 압축⭕ <br> Q4.자물쇠와 열쇠⭕ <br> Q5.뱀⭕ <br> Q6.기둥과 보 설치⭕ <br> Q7.치킨 배달⭕ <br> Q8.외벽 점검⭕ | Q1.음료수 얼려먹기⭕ <br> Q2.미로 탈출⭕ <br> Q15.특정 거리의 도시찾기⭕ <br> Q16.연구소⭕ <br> Q17.경쟁적 전염⭕ <br> Q18.괄호 변환⭕ <br> Q19.연산자 끼워 넣기⭕  <br> Q20.감시 피하기⭕ <br> Q21.인구 이동 ⭕<br> Q22.블록 이동하기⭕  |  Q1.위에서 아래로⭕  <br> Q2.성적이 낮은 순서로 학생 출력하기⭕  <br> Q3.두 배열의 원소 교체⭕ <br>   Q23.국영수⭕  <br> Q24.안테나⭕  <br> Q25.실패율⭕  <br> Q26.카드정렬하기⭕    |   |   
+| [<img src="https://github.com/deingvelop.png" width="80">](https://github.com/deingvelop) <br> 민진 |  Q1.큰 수의 법칙⭕ <br> Q2.숫자 카드 게임⭕  <br>Q3.1이 될 때까지 ⭕ <br> Q1.모험가길드⭕ <br> Q2.곱합기 혹은 더하기⭕ <br> Q3.문자열 뒤집기⭕ <br> Q4.만들 수 없는 금액⭕ <br> Q5.볼링공 고르기⭕ <br>  Q6.무지의 먹방 라이브⭕ <br> 회의참석⭕   | Q1.왕실의 나이트⭕ <br> Q2.게임 개발⭕ <br> Q1.럭키 스트레이트⭕ <br> Q2.문자열 재정렬⭕ <br> Q3.문자열 압축❌ <br> Q4.자물쇠와 열쇠❌ <br> Q5.뱀❌ <br> Q6.기둥과 보 설치❌ <br> Q7.치킨 배달❌ <br> Q8.외벽 점검❌  |  Q1.음료수 얼려먹기⭕ <br> Q2.미로 탈출⭕ <br> Q15.특정 거리의 도시찾기⭕ <br> Q16.연구소⭕ <br> Q17.경쟁적 전염❌ <br> Q18.괄호 변환❌ <br> Q19.연산자 끼워 넣기❌  <br> Q20.감시 피하기❌ <br> Q21.인구 이동 ❌<br> Q22.블록 이동하기❌   |  Q1.위에서 아래로⭕  <br> Q2.성적이 낮은 순서로 학생 출력하기⭕  <br> Q3.두 배열의 원소 교체⭕ <br>   Q23.국영수⭕  <br> Q24.안테나⭕  <br> Q25.실패율⭕  <br> Q26.카드정렬하기❌  |   |   
+|  [<img src="https://github.com/yourzinc.png" width="80">](https://github.com/yourzinc) <br> 아연 |   Q1.큰 수의 법칙⭕ <br> Q2.숫자 카드 게임⭕  <br>Q3.1이 될 때까지 ⭕ <br> Q1.모험가길드⭕ <br> Q2.곱합기 혹은 더하기⭕ <br> Q3.문자열 뒤집기⭕ <br> Q4.만들 수 없는 금액⭕ <br> Q5.볼링공 고르기⭕ <br>  Q6.무지의 먹방 라이브⭕ <br> 회의참석⭕   | Q1.왕실의 나이트⭕ <br> Q2.게임 개발⭕ <br> Q1.럭키 스트레이트⭕ <br> Q2.문자열 재정렬⭕ <br> Q3.문자열 압축⭕ <br> Q4.자물쇠와 열쇠⭕ <br> Q5.뱀⭕ <br> Q6.기둥과 보 설치⭕ <br> Q7.치킨 배달⭕ <br> Q8.외벽 점검⭕   | Q1.음료수 얼려먹기⭕ <br> Q2.미로 탈출⭕ <br> Q15.특정 거리의 도시찾기⭕ <br> Q16.연구소⭕ <br> Q17.경쟁적 전염⭕ <br> Q18.괄호 변환⭕ <br> Q19.연산자 끼워 넣기⭕  <br> Q20.감시 피하기⭕ <br> Q21.인구 이동 ⭕<br> Q22.블록 이동하기⭕    |   Q1.위에서 아래로⭕  <br> Q2.성적이 낮은 순서로 학생 출력하기⭕  <br> Q3.두 배열의 원소 교체⭕ <br>   Q23.국영수⭕  <br> Q24.안테나⭕  <br> Q25.실패율⭕  <br> Q26.카드정렬하기⭕ |   |   
+|  [<img src="https://github.com/minjudy.png" width="80">](https://github.com/minjudy) <br> 민주 |   Q1.큰 수의 법칙⭕ <br> Q2.숫자 카드 게임⭕  <br>Q3.1이 될 때까지 ⭕ <br> Q1.모험가길드⭕ <br> Q2.곱합기 혹은 더하기⭕ <br> Q3.문자열 뒤집기⭕ <br> Q4.만들 수 없는 금액⭕ <br> Q5.볼링공 고르기⭕ <br>  Q6.무지의 먹방 라이브⭕ <br>회의참석⭕    | Q1.왕실의 나이트⭕ <br> Q2.게임 개발⭕ <br> Q1.럭키 스트레이트⭕ <br> Q2.문자열 재정렬⭕ <br> Q3.문자열 압축⭕ <br> Q4.자물쇠와 열쇠⭕ <br> Q5.뱀⭕ <br> Q6.기둥과 보 설치❌ <br> Q7.치킨 배달❌ <br> Q8.외벽 점검❌  | Q1.음료수 얼려먹기⭕ <br> Q2.미로 탈출⭕ <br> Q15.특정 거리의 도시찾기⭕ <br> Q16.연구소⭕ <br> Q17.경쟁적 전염⭕ <br> Q18.괄호 변환⭕ <br> Q19.연산자 끼워 넣기⭕  <br> Q20.감시 피하기⭕ <br> Q21.인구 이동 ⭕<br> Q22.블록 이동하기⭕    |   Q1.위에서 아래로⭕  <br> Q2.성적이 낮은 순서로 학생 출력하기⭕  <br> Q3.두 배열의 원소 교체⭕ <br>   Q23.국영수⭕  <br> Q24.안테나⭕  <br> Q25.실패율⭕  <br> Q26.카드정렬하기⭕ |   |   
+
 

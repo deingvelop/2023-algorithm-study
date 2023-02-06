@@ -1,0 +1,46 @@
+#무게가 다른 볼링공을 두 사람이 골라야함
+#n = 공 개수, m = 볼링공의 최대 무게
+#볼링공의 무게는 1부터 10까지만 존재
+#Q. 볼링공 고르는 경우의 수
+
+#책풀이
+n, m = map(int, input().split())
+data = list(map(int, input().split()))
+
+array = [0] *11 #1부터 10까지 담을 수 있는 빈칸 리스트 정의
+
+for x in data : #data에는 각 볼링 공의 무게가 리스트로 들어옴(ex. data = [1,2,3,3,4])
+    array[x] += 1 #ex. 
+
+result = 0
+
+for i in range(1, m+1) :
+    n -= array[i]
+    result += array[i] *n
+
+print(result)
+
+
+#기타풀이 ch3_greedy/part3.py
+#Q5 볼링공 고르기
+
+def choose_ball():
+  cnt = 0
+  n, m = map(int, input().split())
+  arr = list(map(int, input().split())) #볼링공의 무게 리스트
+  
+  # print(n,'//',m,'//',arr)
+
+  for i in range(n-1):
+    for j in range(i+1, n): #두번째 고르는 사람은 i+1번째부터 선택
+      print(i,'//',j) #ex. (1,2) // (2,3)
+      
+      if arr[i] == arr[j]:
+        continue #ex. 1번째 볼링공과 2번째 볼링공의 무게가 같으면 패스하고
+      else: #ex. 1번째 볼링공과 2번째 볼링공의 무게가 다르면 count를 하나씩 올려라
+        cnt += 1
+        
+  print(cnt)
+  
+  
+  
