@@ -42,7 +42,7 @@ def dijkstra(start, distance, visited):
         visited[now] = True
         
         for j in path[now]:
-            print(path[now])
+            # print(path[now])
             distance[j] = min(distance[j], distance[now]+1)
 
 dijkstra(1, distance1, visited1)
