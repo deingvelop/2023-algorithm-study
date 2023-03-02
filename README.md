@@ -108,7 +108,7 @@
 | 5 |   Q1.부품 찾기 <br> Q2.떡볶이 떡 만들기 <br>   Q27.정렬된 배열에서 특정 수의 개수 구하기 <br> Q28.고정점 찾기 <br> Q29.공유기 설치 <br> Q30.가사 검색        |   ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ❌ <br>❌   |      ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕   |     ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕   |    ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕    |
 | 6 |   Q1.1로 만들기 <br> Q2.개미 전사 <br> Q3.바닥 공사 <br> Q4.효율적인 화폐 구성 <br>   Q31.금광 <br> Q32.정수 삼각형 <br> Q33.퇴사 <br> Q34.병사 배치하기 <br> Q35.못생긴 수 <br> Q36.편집 거리        |    ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>❌  |    ⭕ <br>⭕ <br>⭕ <br>⭕ <br>❌  <br>❌ <br>❌ <br>❌ <br> ❌ <br>⭕    |    ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕    |   ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕     |
 | 7 |     Q1.미래 도시 <br> Q2.전보   <br>  Q37.플로이드 <br> Q38.정확한 순위 <br> Q39.화성 탐사 <br> Q40.숨바꼭질       |  ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕     |     ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕    |    ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕    |    ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕    |
-| 8 |    Q1.팀 결성 <br> Q2.도시 분할 계획 <br> Q3.커리큘럼 <br>  Q41.여행 계획 <br> Q42.탑승구 <br> Q43.어두운 길 <br> Q44.행성 터널 <br> Q45.최종 순위        |      |        |       |       |
+| 8 |    Q1.팀 결성 <br> Q2.도시 분할 계획 <br> Q3.커리큘럼 <br>  Q41.여행 계획 <br> Q42.탑승구 <br> Q43.어두운 길 <br> Q44.행성 터널 <br> Q45.최종 순위        |   ❌  <br>❌ <br>❌ <br>❌ <br>❌  <br>❌ <br>❌ <br>❌   |     ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕ <br>⭕ <br>⭕   |    ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕ <br>⭕ <br>⭕   |    ⭕ <br>⭕ <br>⭕ <br>⭕ <br> ⭕ <br>⭕ <br>⭕ <br>⭕   |
 
 
 
